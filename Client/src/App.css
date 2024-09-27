@@ -1,0 +1,10 @@
+.app-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.app-container > .header {
+  position: relative;
+  margin: 10px; 
+}
